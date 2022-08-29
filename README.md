@@ -5,7 +5,7 @@
 ___
 ![R](https://img.shields.io/badge/R-programming-blue)
 ![Python](https://img.shields.io/badge/python-jupyter%20-yellow)
-  
+![SQL](https://img.shields.io/badge/SQL-jupyter%20-brightgreen)
 
 ### 🏃‍♀️ My work experience
 ___

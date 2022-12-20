@@ -9,10 +9,11 @@ ___
 
 ### 🏃‍♀️ My work experience
 ___
+* Data Science & Statistics 2021~present [Sungkyunkwan University](https://www.skku.edu/skku/index.do)
 * DScover [Sungkyunkwan University](https://www.instagram.com/dscover_skku/)
 
   
-### 👀 Articles I contributed to
+### 👀 Data Analysis
 ___
 
 <table>

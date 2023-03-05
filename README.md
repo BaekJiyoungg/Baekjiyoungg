@@ -1,5 +1,8 @@
-## Hello, I am Jiyoung Baek.
+## Hello, everyone
 
+I'm currently an undergraduate student in Sungkyunkwan University, studiyng Data Science and Statistics.
+
+My major interests are Data Analysis, and Deep Learing.
   
 ### 🛠 My skillset
 ___
@@ -10,7 +13,7 @@ ___
 ### 🏃‍♀️ My work experience
 ___
 * Data Science & Statistics 2021~present [Sungkyunkwan University](https://www.skku.edu/skku/index.do)
-* DScover [Sungkyunkwan University](https://www.instagram.com/dscover_skku/)
+* DScover, a data analyzing academy in [Sungkyunkwan University](https://www.instagram.com/dscover_skku/)
 
   
 ### 👀 Data Analysis
@@ -40,3 +43,6 @@ ___
     </tr>
   </tbody>
 </table>
+
+### Studying Data Science
+1. Data Visualization

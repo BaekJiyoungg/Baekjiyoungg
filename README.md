@@ -46,3 +46,7 @@ ___
 
 ### Studying Data Science
 1. Data Visualization
+2. Statistics
+3. Deep Learning
+4. Data Mining
+5. SQL

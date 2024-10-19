@@ -13,7 +13,7 @@ ___
 ### 🏃‍♀️ My work experience
 ___
 * Data Science & Statistics 2021.02~2024.08 [Sungkyunkwan University](https://www.skku.edu/skku/index.do)
-* 4th Industrial revolution academy in [Sungkyunkwan University](https://www.instagram.com/dscover_skku/)
+* First Penguin, a 4th Industrial revolution academy in [Sungkyunkwan University](https://www.instagram.com/dscover_skku/)
 * DScover, a data analyzing academy in [Sungkyunkwan University](https://www.instagram.com/dscover_skku/)
 * DHCSS(Digital Humanities & Computational Social Science) 2024.09~
 
